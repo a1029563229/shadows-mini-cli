@@ -1,0 +1,11 @@
+{
+  "name": "shadows-mini-cli",
+  "version": "1.0.0",
+  "description": "Build demo for support new EcmaScript syntax",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "ISC"
+}
